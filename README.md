@@ -24,6 +24,7 @@ Dialectica is a real-time web application designed to facilitate structured deba
 - **📱Responsive Design**: Optimized for desktop and mobile.
 - **📊Statistics Tracking**: User performance and engagement metrics.
 
+
 ## ⚙️ Tech Stack
 
 | Component        | Technology                         |
@@ -35,6 +36,7 @@ Dialectica is a real-time web application designed to facilitate structured deba
 | Real-time        | Socket.io                         |
 | Authentication   | JWT                               |
 | Styling          | CSS3, Bootstrap / Material-UI     |
+
 
 ## 🚀 Getting Started
 
