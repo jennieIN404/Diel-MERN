@@ -18,7 +18,7 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.1.1",
     "socket.io": "^4.7.2",
-    "socket.io-stream": "^0.9.1"
+    "socket.io-stream": "^0.5.3"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
